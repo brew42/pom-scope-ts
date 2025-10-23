@@ -23,6 +23,8 @@
   "type": "commonjs",
   "dependencies": {
     "fast-xml-parser": "^5.3.0",
+    "is-path-inside": "^4.0.0",
+    "path-is-inside": "^1.0.2",
     "yargs": "^18.0.0"
   },
   "devDependencies": {
